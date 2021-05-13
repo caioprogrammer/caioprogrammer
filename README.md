@@ -16,6 +16,9 @@ Always open to new challenge and ready to face changes
 - From AL living in Maceió ❤❤❤
 -  Front-end web Developer 💻
 - Sharing my Front-end journey and challenges (**my Instagram: instagram.com/caio.nogueira.509**)
+
+
+## My linkedin: https://www.linkedin.com/in/caio-nogueira-96b773206/: 
 <!--
 **caioprogrammer/caioprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
