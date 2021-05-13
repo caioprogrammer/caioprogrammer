@@ -1,4 +1,3 @@
-### Hi there 👋
 #  E aí  👋... Tudo bom ?
 
 My name is Caio Nogueira, I'm from Brazil.
