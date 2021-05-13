@@ -1,9 +1,12 @@
 ### Hi there 👋
 #  E aí  👋... Tudo bom ?
 
-My name is Caio Nogueira, I'm from Brazil. I'm a Web Developer, that been working as a Front-end developer since 2021
+My name is Caio Nogueira, I'm from Brazil.
 
-I'm passionate about solving problems and learning. Always open to new challenge and ready to face changes
+I'm a Web Developer, that been working as a Front-end developer since 2021
+
+I'm passionate about solving problems and learning. 
+Always open to new challenge and ready to face changes
 
 ### Um dia irei conquistar o mundo 🌎
 
