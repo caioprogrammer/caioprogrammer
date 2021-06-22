@@ -21,6 +21,11 @@ Always open to new challenge and ready to face changes
 
 # My Skills 
 <img align="center" alt="css3" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%">
+<img align="center" alt="html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%">
+<img align="center" alt="javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%">
+
+## I'm learning
+<img align="center" alt="reactJs" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width:100%">
 
 ## My linkedin: <a href="https://www.linkedin.com/in/caio-nogueira-96b773206/">
 <img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%">
