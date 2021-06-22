@@ -6,6 +6,8 @@ I'm a Web Developer, that been working as a Front-end developer since 2021
 
 I'm still in training, but I already have good knowledge in HTML, CSS and Javascript.
 
+I'm learning and working with VTEX and VTEX IO
+
 My next step is vue.JS and React.JS
 
 I'm passionate about solving problems and learning. 
@@ -16,6 +18,9 @@ Always open to new challenge and ready to face changes
 - From AL living in Maceió ❤❤❤
 -  Front-end web Developer 💻
 - Sharing my Front-end journey and challenges (**my Instagram: instagram.com/caio.nogueira.509**)
+
+# My Skills 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
 ## My linkedin: https://www.linkedin.com/in/caio-nogueira-96b773206/ 
