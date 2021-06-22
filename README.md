@@ -33,7 +33,7 @@ Always open to new challenge and ready to face changes
 
 ## My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![CaioProgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=caioprogrammer&show_icons=true&theme=radical)
 
 
 
