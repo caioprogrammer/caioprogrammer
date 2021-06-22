@@ -24,7 +24,7 @@ Always open to new challenge and ready to face changes
 - Sharing my Front-end journey and challenges (**my Instagram: instagram.com/caio.nogueira.509**)
 
 # My Skills 
-
+<i class="devicon-css3-plain-wordmark"></i>
 
 ## My linkedin: https://www.linkedin.com/in/caio-nogueira-96b773206/ 
 <!--
