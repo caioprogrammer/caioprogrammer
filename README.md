@@ -20,7 +20,7 @@ Always open to new challenge and ready to face changes
 - Sharing my Front-end journey and challenges (**my Instagram: instagram.com/caio.nogueira.509**)
 
 # My Skills 
-<img align="center" alt="css3" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%">
+Inline-style: <img align="center" alt="css3" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%">
 <img align="center" alt="html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%">
 <img align="center" alt="javascript" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width:100%">
 
