@@ -31,7 +31,7 @@ Always open to new challenge and ready to face changes
 <img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 </a>
 
-<br>
+## My Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
