@@ -34,7 +34,7 @@ Always open to new challenge and ready to face changes
 ## My Stats
 
 ![CaioProgrammer GitHub stats](https://github-readme-stats.vercel.app/api?username=caioprogrammer&show_icons=true&theme=radical)
-
+.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioprogrammer)](https://github.com/caioprogrammer/github-readme-stats)
 
 
