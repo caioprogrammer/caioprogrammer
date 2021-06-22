@@ -1,3 +1,7 @@
+<head> 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+</head>
+
 #  E aí  👋... Tudo bom ?
 
 My name is Caio Nogueira, I'm from Brazil.
@@ -20,7 +24,6 @@ Always open to new challenge and ready to face changes
 - Sharing my Front-end journey and challenges (**my Instagram: instagram.com/caio.nogueira.509**)
 
 # My Skills 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
 
 ## My linkedin: https://www.linkedin.com/in/caio-nogueira-96b773206/ 
