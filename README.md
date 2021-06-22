@@ -8,7 +8,7 @@ I'm still in training, but I already have good knowledge in HTML, CSS and Javasc
 
 I'm learning and working with VTEX and VTEX IO
 
-My next step is vue.JS and React.JS
+My next step is React.JS
 
 I'm passionate about solving problems and learning. 
 Always open to new challenge and ready to face changes
@@ -30,6 +30,10 @@ Always open to new challenge and ready to face changes
 ## My linkedin: <a href="https://www.linkedin.com/in/caio-nogueira-96b773206/">
 <img align="center" alt="caio-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%">
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **caioprogrammer/caioprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
