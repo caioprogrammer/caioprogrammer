@@ -6,7 +6,7 @@ I'm a Web Developer, that been working as a Front-end developer since 2021
 
 I'm still in training, but I already have good knowledge in HTML, CSS and Javascript.
 
-I'm learning and working with VTEX and VTEX IO
+I'm learning and working with Tray Corp, VTEX, and Wordpress
 
 My next step is React.JS
 
