@@ -4,9 +4,10 @@ My name is Caio Nogueira, I'm from Brazil.
 
 I'm a Web Developer, that been working as a Front-end developer since 2021
 
-I'm still in training, but I already have good knowledge in HTML, CSS and Javascript.
+I'm still in training, but I already have good knowledge in HTML, CSS, Javascript
+SCSS. BEMCSS, TrayCorp.
 
-I'm learning and working with Tray Corp, VTEX, and Wordpress
+I'm learning and working with VTEX, and Wordpress
 
 My next step is React.JS
 
